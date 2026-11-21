@@ -1,0 +1,26 @@
+salesperson_id,salesperson_name,gender,region,designation,experience,joining_year,target_amount
+S001,Employee_1,Female,East,Senior Executive,7,2023,2429887
+S002,Employee_2,Female,West,Team Lead,10,2024,896851
+S003,Employee_3,Male,North,Team Lead,5,2021,2207899
+S004,Employee_4,Male,South,Senior Executive,3,2018,2589992
+S005,Employee_5,Male,South,Team Lead,3,2018,2653895
+S006,Employee_6,Female,West,Executive,8,2020,1459387
+S007,Employee_7,Female,West,Team Lead,11,2023,2655207
+S008,Employee_8,Male,West,Team Lead,5,2022,2526088
+S009,Employee_9,Female,South,Team Lead,7,2024,1172443
+S010,Employee_10,Female,South,Team Lead,8,2023,1428027
+S011,Employee_11,Male,East,Team Lead,5,2025,1982304
+S012,Employee_12,Male,North,Executive,12,2022,1709566
+S013,Employee_13,Male,North,Executive,6,2025,2940289
+S014,Employee_14,Female,South,Executive,9,2021,991359
+S015,Employee_15,Female,South,Executive,9,2018,1147516
+S016,Employee_16,Male,South,Team Lead,11,2023,1581466
+S017,Employee_17,Male,West,Executive,10,2020,2953219
+S018,Employee_18,Female,North,Senior Executive,9,2020,1508125
+S019,Employee_19,Male,East,Executive,4,2022,1232449
+S020,Employee_20,Female,South,Team Lead,1,2022,2831369
+S021,Employee_21,Female,West,Team Lead,8,2020,1852489
+S022,Employee_22,Female,South,Senior Executive,5,2019,1642349
+S023,Employee_23,Male,South,Executive,12,2021,553828
+S024,Employee_24,Female,West,Executive,2,2022,2359729
+S025,Employee_25,Female,West,Senior Executive,7,2022,656756

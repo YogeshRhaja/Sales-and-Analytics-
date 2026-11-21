@@ -1,0 +1,121 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price,supplier_id,launch_year
+P001,Laptop,Electronics,Laptop,BrandA,17857,27352,SUP008,2019
+P002,Smartphone,Electronics,Smartphone,BrandA,10746,18102,SUP017,2021
+P003,Tablet,Electronics,Tablet,BrandA,28492,875,SUP013,2024
+P004,Monitor,Electronics,Monitor,BrandA,21137,21374,SUP008,2021
+P005,Smart Watch,Electronics,Smart Watch,BrandA,56158,24953,SUP010,2021
+P006,Laptop,Electronics,Laptop,BrandB,51891,22367,SUP025,2020
+P007,Smartphone,Electronics,Smartphone,BrandB,59517,18028,SUP020,2023
+P008,Tablet,Electronics,Tablet,BrandB,6351,18705,SUP010,2023
+P009,Monitor,Electronics,Monitor,BrandB,24519,26633,SUP029,2024
+P010,Smart Watch,Electronics,Smart Watch,BrandB,47635,19309,SUP022,2019
+P011,Laptop,Electronics,Laptop,BrandC,49098,31921,SUP013,2021
+P012,Smartphone,Electronics,Smartphone,BrandC,40588,9489,SUP014,2025
+P013,Tablet,Electronics,Tablet,BrandC,40228,25006,SUP014,2019
+P014,Monitor,Electronics,Monitor,BrandC,13639,28911,SUP007,2021
+P015,Smart Watch,Electronics,Smart Watch,BrandC,1203,5717,SUP011,2024
+P016,Laptop,Electronics,Laptop,BrandD,16189,10961,SUP010,2022
+P017,Smartphone,Electronics,Smartphone,BrandD,4308,19826,SUP027,2021
+P018,Tablet,Electronics,Tablet,BrandD,29985,3747,SUP025,2025
+P019,Monitor,Electronics,Monitor,BrandD,42297,4501,SUP005,2025
+P020,Smart Watch,Electronics,Smart Watch,BrandD,23357,19200,SUP007,2025
+P021,Chair,Furniture,Chair,BrandA,27281,25347,SUP027,2021
+P022,Table,Furniture,Table,BrandA,59556,3476,SUP004,2023
+P023,Sofa,Furniture,Sofa,BrandA,9126,8462,SUP017,2020
+P024,Wardrobe,Furniture,Wardrobe,BrandA,56302,5617,SUP021,2025
+P025,Bookshelf,Furniture,Bookshelf,BrandA,37881,22064,SUP028,2025
+P026,Chair,Furniture,Chair,BrandB,5406,21092,SUP002,2020
+P027,Table,Furniture,Table,BrandB,13342,20287,SUP029,2023
+P028,Sofa,Furniture,Sofa,BrandB,53875,32366,SUP002,2024
+P029,Wardrobe,Furniture,Wardrobe,BrandB,31439,11912,SUP017,2019
+P030,Bookshelf,Furniture,Bookshelf,BrandB,37268,8853,SUP020,2022
+P031,Chair,Furniture,Chair,BrandC,8052,6571,SUP022,2019
+P032,Table,Furniture,Table,BrandC,5663,3037,SUP009,2021
+P033,Sofa,Furniture,Sofa,BrandC,30378,2311,SUP006,2019
+P034,Wardrobe,Furniture,Wardrobe,BrandC,42546,33971,SUP018,2020
+P035,Bookshelf,Furniture,Bookshelf,BrandC,34999,35738,SUP024,2019
+P036,Chair,Furniture,Chair,BrandD,32097,9087,SUP029,2021
+P037,Table,Furniture,Table,BrandD,20019,26820,SUP021,2021
+P038,Sofa,Furniture,Sofa,BrandD,26557,32807,SUP030,2023
+P039,Wardrobe,Furniture,Wardrobe,BrandD,10522,20570,SUP002,2022
+P040,Bookshelf,Furniture,Bookshelf,BrandD,35383,25704,SUP019,2024
+P041,Mixer,Home Appliances,Mixer,BrandA,55866,16040,SUP027,2025
+P042,Microwave,Home Appliances,Microwave,BrandA,46492,10975,SUP002,2019
+P043,Air Fryer,Home Appliances,Air Fryer,BrandA,32534,35322,SUP021,2021
+P044,Fan,Home Appliances,Fan,BrandA,49508,28412,SUP019,2023
+P045,Vacuum Cleaner,Home Appliances,Vacuum Cleaner,BrandA,49104,33128,SUP029,2025
+P046,Mixer,Home Appliances,Mixer,BrandB,43799,5632,SUP008,2019
+P047,Microwave,Home Appliances,Microwave,BrandB,9064,17880,SUP022,2024
+P048,Air Fryer,Home Appliances,Air Fryer,BrandB,35727,36605,SUP023,2025
+P049,Fan,Home Appliances,Fan,BrandB,52228,8279,SUP007,2025
+P050,Vacuum Cleaner,Home Appliances,Vacuum Cleaner,BrandB,9529,1951,SUP026,2025
+P051,Mixer,Home Appliances,Mixer,BrandC,7726,505,SUP016,2023
+P052,Microwave,Home Appliances,Microwave,BrandC,19193,14327,SUP004,2022
+P053,Air Fryer,Home Appliances,Air Fryer,BrandC,30210,34213,SUP016,2021
+P054,Fan,Home Appliances,Fan,BrandC,47571,37933,SUP020,2020
+P055,Vacuum Cleaner,Home Appliances,Vacuum Cleaner,BrandC,35131,4782,SUP022,2020
+P056,Mixer,Home Appliances,Mixer,BrandD,39349,9576,SUP028,2020
+P057,Microwave,Home Appliances,Microwave,BrandD,17540,3526,SUP021,2021
+P058,Air Fryer,Home Appliances,Air Fryer,BrandD,33647,29457,SUP010,2021
+P059,Fan,Home Appliances,Fan,BrandD,11633,30140,SUP018,2025
+P060,Vacuum Cleaner,Home Appliances,Vacuum Cleaner,BrandD,41754,7789,SUP023,2024
+P061,Rice,Grocery,Rice,BrandA,1114,25991,SUP009,2025
+P062,Oil,Grocery,Oil,BrandA,1444,29046,SUP010,2020
+P063,Tea,Grocery,Tea,BrandA,56561,30217,SUP024,2025
+P064,Sugar,Grocery,Sugar,BrandA,29751,6368,SUP025,2019
+P065,Coffee,Grocery,Coffee,BrandA,24273,2091,SUP027,2021
+P066,Rice,Grocery,Rice,BrandB,42029,5766,SUP019,2025
+P067,Oil,Grocery,Oil,BrandB,31527,3807,SUP021,2025
+P068,Tea,Grocery,Tea,BrandB,34089,3906,SUP013,2023
+P069,Sugar,Grocery,Sugar,BrandB,15891,9451,SUP018,2022
+P070,Coffee,Grocery,Coffee,BrandB,36111,24967,SUP015,2025
+P071,Rice,Grocery,Rice,BrandC,223,20526,SUP002,2025
+P072,Oil,Grocery,Oil,BrandC,59084,22345,SUP011,2022
+P073,Tea,Grocery,Tea,BrandC,55361,149,SUP023,2025
+P074,Sugar,Grocery,Sugar,BrandC,9026,2271,SUP014,2019
+P075,Coffee,Grocery,Coffee,BrandC,21663,22795,SUP017,2023
+P076,Rice,Grocery,Rice,BrandD,6517,30670,SUP028,2019
+P077,Oil,Grocery,Oil,BrandD,39787,27273,SUP016,2023
+P078,Tea,Grocery,Tea,BrandD,30931,17546,SUP014,2019
+P079,Sugar,Grocery,Sugar,BrandD,7447,32917,SUP021,2020
+P080,Coffee,Grocery,Coffee,BrandD,34239,2087,SUP014,2021
+P081,T-Shirt,Fashion,T-Shirt,BrandA,29333,33282,SUP013,2019
+P082,Jeans,Fashion,Jeans,BrandA,45975,9767,SUP027,2023
+P083,Jacket,Fashion,Jacket,BrandA,49938,31423,SUP008,2020
+P084,Shoes,Fashion,Shoes,BrandA,14721,16180,SUP003,2024
+P085,Cap,Fashion,Cap,BrandA,53959,35866,SUP021,2023
+P086,T-Shirt,Fashion,T-Shirt,BrandB,23204,35879,SUP029,2020
+P087,Jeans,Fashion,Jeans,BrandB,41479,27409,SUP001,2023
+P088,Jacket,Fashion,Jacket,BrandB,30189,15958,SUP005,2021
+P089,Shoes,Fashion,Shoes,BrandB,39967,21694,SUP017,2020
+P090,Cap,Fashion,Cap,BrandB,26747,7539,SUP003,2024
+P091,T-Shirt,Fashion,T-Shirt,BrandC,40828,39109,SUP027,2024
+P092,Jeans,Fashion,Jeans,BrandC,20590,22868,SUP007,2020
+P093,Jacket,Fashion,Jacket,BrandC,9121,27325,SUP005,2022
+P094,Shoes,Fashion,Shoes,BrandC,30421,3568,SUP002,2024
+P095,Cap,Fashion,Cap,BrandC,13157,2483,SUP026,2020
+P096,T-Shirt,Fashion,T-Shirt,BrandD,19191,17493,SUP022,2022
+P097,Jeans,Fashion,Jeans,BrandD,48856,9319,SUP016,2021
+P098,Jacket,Fashion,Jacket,BrandD,42821,31677,SUP018,2021
+P099,Shoes,Fashion,Shoes,BrandD,17726,17210,SUP025,2021
+P100,Cap,Fashion,Cap,BrandD,22209,10656,SUP026,2019
+P101,Football,Sports,Football,BrandA,23847,17796,SUP005,2020
+P102,Cricket Bat,Sports,Cricket Bat,BrandA,15299,38223,SUP028,2022
+P103,Yoga Mat,Sports,Yoga Mat,BrandA,40181,23299,SUP004,2021
+P104,Dumbbell,Sports,Dumbbell,BrandA,12902,39189,SUP016,2022
+P105,Tennis Racket,Sports,Tennis Racket,BrandA,9426,2448,SUP028,2020
+P106,Football,Sports,Football,BrandB,43070,14052,SUP002,2020
+P107,Cricket Bat,Sports,Cricket Bat,BrandB,27951,27260,SUP017,2023
+P108,Yoga Mat,Sports,Yoga Mat,BrandB,22917,18396,SUP013,2020
+P109,Dumbbell,Sports,Dumbbell,BrandB,51423,39418,SUP011,2020
+P110,Tennis Racket,Sports,Tennis Racket,BrandB,13942,33911,SUP027,2025
+P111,Football,Sports,Football,BrandC,16433,27289,SUP027,2023
+P112,Cricket Bat,Sports,Cricket Bat,BrandC,21166,35885,SUP016,2021
+P113,Yoga Mat,Sports,Yoga Mat,BrandC,58449,5704,SUP015,2021
+P114,Dumbbell,Sports,Dumbbell,BrandC,37934,38834,SUP007,2024
+P115,Tennis Racket,Sports,Tennis Racket,BrandC,53182,38258,SUP017,2023
+P116,Football,Sports,Football,BrandD,21833,39167,SUP021,2019
+P117,Cricket Bat,Sports,Cricket Bat,BrandD,18188,37820,SUP029,2022
+P118,Yoga Mat,Sports,Yoga Mat,BrandD,38186,13283,SUP010,2021
+P119,Dumbbell,Sports,Dumbbell,BrandD,54915,354,SUP030,2022
+P120,Tennis Racket,Sports,Tennis Racket,BrandD,16110,17790,SUP009,2022

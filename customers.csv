@@ -1,0 +1,251 @@
+customer_id,customer_name,gender,age,city,state,segment,join_year,email,customer_status
+C099,Rahul Joshi,Female,25,Delhi,Delhi,Corporate,2019,customer99@mail.com,Inactive
+C098,Rahul Pillai,Male,33,Delhi,Delhi,Retail,2018,customer98@mail.com,Inactive
+C097,Kavya Joshi,Male,29,Ahmedabad,Gujarat,Wholesale,2019,customer97@mail.com,Active
+C096,Ramesh Kapoor,Female,43,Mumbai,Maharashtra,Corporate,2024,customer96@mail.com,Active
+C095,Karthik Bose,Female,22,Hyderabad,Telangana,Wholesale,2024,customer95@mail.com,Active
+C094,Deepak Rao,Female,60,Chennai,Tamil Nadu,Corporate,2024,customer94@mail.com,Inactive
+C093,Kavya Rao,Female,56,Delhi,Delhi,Wholesale,2022,customer93@mail.com,Inactive
+C092,KARTHIK NAIR,Male,60,Bangalore,Karnataka,Retail,2022,customer92@mail.com,Inactive
+C091,Priya Sharma,Female,50,Pune,Maharashtra,Retail,2024,customer91@mail.com,Inactive
+C090,Kavya Kapoor,Male,35,Delhi,Delhi,Retail,2023,customer90@mail.com,Active
+C009,Nisha Gupta,Female,58,Ahmedabad,Gujarat,Corporate,2023,customer9@mail.com,Inactive
+C089,kavya gupta,Female,37,Mumbai,Maharashtra,Retail,2020,customer89@mail.com,Inactive
+C088,Deepak Kumar,Female,54,Mysore,Karnataka,Wholesale,2022,customer88@mail.com,Inactive
+C087,Lakshmi Agarwal,Female,58,Chennai,Tamil Nadu,Wholesale,2021,customer87@mail.com,Inactive
+C086,POOJA RAO,Male,26,Chennai,Tamil Nadu,Wholesale,2025,customer86@mail.com,Inactive
+C085,Ajay Kumar,Female,34,Coimbatore,Tamil Nadu,Wholesale,2020,customer85@mail.com,Inactive
+C084,Nisha Singh,Female,39,Ahmedabad,Gujarat,Retail,2019,customer84@mail.com,Inactive
+C083,Pooja Verma,Female,37,Delhi,Delhi,Corporate,2020,customer83@mail.com,Inactive
+C082,Rahul Patel,Male,39,Pune,Maharashtra,Wholesale,2018,customer82@mail.com,Inactive
+C081,Deepak Singh,Female,38,Mumbai,Maharashtra,Retail,2024,,Active
+C080,Divya Verma,Male,60,Hyderabad,Telangana,Corporate,2023,customer80@mail.com,Inactive
+C008,ARUN PATEL,Female,29,Delhi,Delhi,Wholesale,2018,customer8@mail.com,Active
+C079,rahul pillai,Male,35,Coimbatore,Tamil Nadu,Wholesale,2024,customer79@mail.com,Inactive
+C078,Priya Mishra,Female,45,Kolkata,West Bengal,Corporate,2021,customer78@mail.com,Active
+C077,Lakshmi Kapoor,Male,23,Kolkata,West Bengal,Wholesale,2018,customer77@mail.com,Active
+C076,Kavya Gupta,Female,45,Kolkata,West Bengal,Corporate,2025,customer76@mail.com,Active
+C075,Ajay Das,Female,32,Mysore,Karnataka,Corporate,2022,customer75@mail.com,Inactive
+C074,Asha Nair,Male,46,Chennai,Tamil Nadu,Retail,2021,customer74@mail.com,Active
+C073,SNEHA JAIN,Male,34,Delhi,Delhi,Wholesale,2022,customer73@mail.com,Inactive
+C072,Kavya Joshi,Female,33,Ahmedabad,Gujarat,Corporate,2025,customer72@mail.com,Active
+C071,Lakshmi Yadav,Male,39,Mumbai,Maharashtra,Corporate,2018,customer71@mail.com,Inactive
+C070,Nisha Sharma,Female,36,Ahmedabad,Gujarat,Wholesale,2019,customer70@mail.com,Inactive
+C007,Karthik Yadav,Male,33,Ahmedabad,Gujarat,Retail,2018,customer7@mail.com,Active
+C069,ravi reddy,Male,46,Pune,Maharashtra,Corporate,2024,customer69@mail.com,Active
+C068,Lakshmi Gupta,Male,54,Ahmedabad,Gujarat,Retail,2023,customer68@mail.com,Active
+C067,Suresh Agarwal,Female,32,Delhi,Delhi,Retail,2019,customer67@mail.com,Inactive
+C066,Nisha Joshi,Female,51,Hyderabad,Telangana,Wholesale,2022,customer66@mail.com,Active
+C065,Suresh Pillai,Male,21,Pune,Maharashtra,Corporate,2019,customer65@mail.com,Active
+C064,Karthik Jain,Male,44,Ahmedabad,Gujarat,Corporate,2021,customer64@mail.com,Inactive
+C063,Pooja Menon,Female,42,Delhi,Delhi,Wholesale,2019,customer63@mail.com,Inactive
+C062,Priya Nair,Female,47,Mysore,Karnataka,Wholesale,2018,customer62@mail.com,Inactive
+C061,Suresh Jain,Male,22,Mysore,Karnataka,Wholesale,2022,customer61@mail.com,Inactive
+C060,KAVYA GUPTA,Male,54,Delhi,Delhi,Retail,2020,customer60@mail.com,Active
+C006,Ramesh Menon,Male,32,Bangalore,Karnataka,Retail,2024,customer6@mail.com,Active
+C059,ravi rao,Female,52,Bangalore,Karnataka,Corporate,2024,customer59@mail.com,Active
+C058,Sneha Agarwal,Female,44,Kolkata,West Bengal,Corporate,2020,customer58@mail.com,Active
+C057,Kavya Kumar,Male,37,Mumbai,Maharashtra,Wholesale,2025,customer57@mail.com,Inactive
+C056,Meena Kumar,Female,52,Chennai,Tamil Nadu,Wholesale,2018,customer56@mail.com,Active
+C055,Asha Kumar,Male,46,Mysore,Karnataka,Retail,2025,customer55@mail.com,Inactive
+C054,RAMESH REDDY,Male,31,Mumbai,Maharashtra,Wholesale,2025,customer54@mail.com,Inactive
+C053,Ravi Reddy,Male,24,Kolkata,West Bengal,Wholesale,2024,customer53@mail.com,Active
+C052,Ajay Yadav,Female,22,Hyderabad,Telangana,Wholesale,2022,customer52@mail.com,Active
+C051,Arun Joshi,Female,34,Hyderabad,Telangana,Corporate,2024,customer51@mail.com,Inactive
+C050,Anita Reddy,Male,33,Pune,Maharashtra,Corporate,2020,customer50@mail.com,Active
+C005,Lakshmi Sharma,Male,46,Pune,Maharashtra,Corporate,2022,customer5@mail.com,Inactive
+C049,Ajay Singh,Male,26,Mumbai,Maharashtra,Corporate,2018,customer49@mail.com,Inactive
+C048,ANITA RAO,Male,51,Kolkata,West Bengal,Wholesale,2018,customer48@mail.com,Inactive
+C047,Ajay Menon,Male,28,Hyderabad,Telangana,Corporate,2018,customer47@mail.com,Active
+C046,Sneha Kumar,Male,26,Pune,Maharashtra,Corporate,2021,customer46@mail.com,Inactive
+C045,Lakshmi Gupta,Male,31,Mumbai,Maharashtra,Corporate,2020,customer45@mail.com,Active
+C044,Divya Reddy,Male,40,Hyderabad,Telangana,Corporate,2025,customer44@mail.com,Active
+C043,Deepak Verma,Male,35,Chennai,Tamil Nadu,Corporate,2023,customer43@mail.com,Active
+C042,Suresh Kumar,Male,32,Ahmedabad,Gujarat,Retail,2021,customer42@mail.com,Inactive
+C041,RAMESH RAO,Male,53,Delhi,Delhi,Wholesale,2022,customer41@mail.com,Active
+C040,Vijay Rao,Female,43,Chennai,Tamil Nadu,Wholesale,2025,customer40@mail.com,Active
+C004,Lakshmi Kapoor,Male,30,Mysore,Karnataka,Retail,2023,customer4@mail.com,Inactive
+C039,asha agarwal,Male,56,Kolkata,West Bengal,Retail,2020,customer39@mail.com,Inactive
+C038,Sneha Mishra,Female,35,Mysore,Karnataka,Retail,2018,customer38@mail.com,Active
+C037,Rahul Patel,Female,28,Delhi,Delhi,Wholesale,2025,customer37@mail.com,Inactive
+C036,Meena Jain,Male,31,Bangalore,Karnataka,Corporate,2024,customer36@mail.com,Active
+C035,Priya Agarwal,Male,26,Delhi,Delhi,Corporate,2019,customer35@mail.com,Active
+C034,Arun Menon,Male,49,Coimbatore,Tamil Nadu,Corporate,2018,customer34@mail.com,Active
+C033,Arun Sharma,Female,48,Pune,Maharashtra,Wholesale,2023,customer33@mail.com,Active
+C032,Priya Menon,Male,58,Bangalore,Karnataka,Wholesale,2021,customer32@mail.com,Active
+C031,Anita Yadav,Male,48,Delhi,Delhi,Wholesale,2019,customer31@mail.com,Inactive
+C030,Kavya Patel,Male,31,Mysore,Karnataka,Wholesale,2022,customer30@mail.com,Active
+C003,Pooja Jain,Male,34,Hyderabad,Telangana,Corporate,2021,customer3@mail.com,Inactive
+C029,ARUN RAO,Female,32,Mumbai,Maharashtra,Corporate,2024,customer29@mail.com,Inactive
+C028,Lakshmi Rao,Male,31,Kolkata,West Bengal,Wholesale,2018,customer28@mail.com,Active
+C027,Kavya Patel,Male,32,Delhi,Delhi,Retail,2018,customer27@mail.com,Inactive
+C026,Manoj Das,Female,22,Mysore,Karnataka,Retail,2023,customer26@mail.com,Inactive
+C250,Asha Patel,Male,58,Coimbatore,Tamil Nadu,Wholesale,2021,customer250@mail.com,Active
+C025,Divya Iyer,Female,35,Kolkata,West Bengal,Corporate,2018,customer25@mail.com,Active
+C249,Ajay Verma,Male,53,Pune,Maharashtra,Retail,2018,customer249@mail.com,Active
+C248,VIJAY GUPTA,Male,43,Chennai,Tamil Nadu,Corporate,2019,customer248@mail.com,Inactive
+C247,Pooja Nair,Male,46,Chennai,Tamil Nadu,Corporate,2024,customer247@mail.com,Active
+C246,Rahul Bose,Male,45,Kolkata,West Bengal,Wholesale,2025,customer246@mail.com,Active
+C245,Sneha Das,Male,23,Coimbatore,Tamil Nadu,Wholesale,2018,customer245@mail.com,Inactive
+C244,rahul reddy,Female,49,Pune,Maharashtra,Corporate,2020,customer244@mail.com,Inactive
+C243,Arun Iyer,Male,48,Coimbatore,Tamil Nadu,Wholesale,2023,customer243@mail.com,Active
+C242,Manoj Rao,Male,23,Kolkata,West Bengal,Corporate,2021,customer242@mail.com,Active
+C241,DEEPAK PILLAI,Female,21,Mumbai,Maharashtra,Corporate,2023,customer241@mail.com,Active
+C240,Deepak Verma,Female,55,Mysore,Karnataka,Wholesale,2025,customer240@mail.com,Active
+C024,Vijay Singh,Male,38,Hyderabad,Telangana,Corporate,2018,customer24@mail.com,Active
+C239,Karthik Rao,Male,54,Delhi,Delhi,Corporate,2019,customer239@mail.com,Inactive
+C238,Pooja Sharma,Female,46,Coimbatore,Tamil Nadu,Wholesale,2024,customer238@mail.com,Inactive
+C237,Deepak Reddy,Female,51,Ahmedabad,Gujarat,Wholesale,2023,customer237@mail.com,Active
+C236,Anita Das,Female,25,Pune,Maharashtra,Wholesale,2020,customer236@mail.com,Active
+C235,RAHUL JAIN,Male,50,Coimbatore,Tamil Nadu,Wholesale,2022,customer235@mail.com,Active
+C234,kavya menon,Male,27,Mumbai,Maharashtra,Wholesale,2025,customer234@mail.com,Active
+C233,Divya Gupta,Male,53,Bangalore,Karnataka,Retail,2022,customer233@mail.com,Inactive
+C232,Ravi Jain,Male,33,Mysore,Karnataka,Wholesale,2022,customer232@mail.com,Active
+C231,Priya Rao,Male,27,Pune,Maharashtra,Wholesale,2021,customer231@mail.com,Inactive
+C230,Asha Yadav,Male,38,Ahmedabad,Gujarat,Wholesale,2022,customer230@mail.com,Active
+C023,Ramesh Yadav,Male,33,Hyderabad,Telangana,Retail,2018,customer23@mail.com,Inactive
+C229,Meena Yadav,Female,42,Mysore,Karnataka,Corporate,2023,customer229@mail.com,Active
+C228,Nisha Nair,Female,46,Coimbatore,Tamil Nadu,Retail,2024,customer228@mail.com,Inactive
+C227,Lakshmi Das,Male,48,Mysore,Karnataka,Wholesale,2023,customer227@mail.com,Inactive
+C226,Divya Verma,Male,37,Ahmedabad,Gujarat,Wholesale,2021,customer226@mail.com,Active
+C225,Anita Nair,Female,26,Chennai,Tamil Nadu,Wholesale,2023,customer225@mail.com,Active
+C224,Karthik Kapoor,Female,53,Mysore,Karnataka,Corporate,2024,customer224@mail.com,Inactive
+C223,Karthik Verma,Male,39,Mysore,Karnataka,Wholesale,2018,customer223@mail.com,Active
+C222,MEENA MISHRA,Female,59,Chennai,Tamil Nadu,Wholesale,2020,customer222@mail.com,Inactive
+C221,Suresh Kapoor,Female,25,Mumbai,Maharashtra,Retail,2020,customer221@mail.com,Inactive
+C220,Deepak Pillai,Male,30,Ahmedabad,Gujarat,Wholesale,2019,customer220@mail.com,Inactive
+C022,Rahul Pillai,Male,47,Bangalore,Karnataka,Retail,2022,customer22@mail.com,Inactive
+C219,Deepak Nair,Female,50,Coimbatore,Tamil Nadu,Wholesale,2024,customer219@mail.com,Active
+C218,Lakshmi Kumar,Female,29,Delhi,Delhi,Retail,2023,customer218@mail.com,Inactive
+C217,Anita Menon,Male,36,Pune,Maharashtra,Retail,2023,customer217@mail.com,Active
+C216,ASHA DAS,Female,60,Ahmedabad,Gujarat,Retail,2020,customer216@mail.com,Inactive
+C215,Karthik Das,Female,50,Mysore,Karnataka,Corporate,2019,customer215@mail.com,Active
+C214,priya rao,Male,55,Bangalore,Karnataka,Retail,2022,customer214@mail.com,Inactive
+C213,Ajay Menon,Female,23,Pune,Maharashtra,Retail,2022,customer213@mail.com,Active
+C212,Manoj Joshi,Female,60,Hyderabad,Telangana,Corporate,2019,customer212@mail.com,Inactive
+C211,Lakshmi Iyer,Male,52,Chennai,Tamil Nadu,Wholesale,2023,customer211@mail.com,Inactive
+C210,Nisha Kumar,Male,29,Bangalore,Karnataka,Corporate,2021,customer210@mail.com,Inactive
+C021,KAVYA VERMA,Female,54,Mumbai,Maharashtra,Retail,2022,customer21@mail.com,Inactive
+C209,Nisha Mishra,Male,48,Hyderabad,Telangana,Corporate,2024,customer209@mail.com,Active
+C208,Pooja Bose,Male,34,Coimbatore,Tamil Nadu,Retail,2019,customer208@mail.com,Active
+C207,Meena Bose,Male,56,Hyderabad,Telangana,Wholesale,2018,customer207@mail.com,Active
+C206,Suresh Iyer,Male,27,Kolkata,West Bengal,Corporate,2024,customer206@mail.com,Active
+C205,Arun Kumar,Male,39,Mysore,Karnataka,Retail,2020,customer205@mail.com,Inactive
+C204,lakshmi gupta,Male,38,Pune,Maharashtra,Retail,2018,customer204@mail.com,Inactive
+C203,MANOJ AGARWAL,Female,21,Ahmedabad,Gujarat,Wholesale,2021,customer203@mail.com,Inactive
+C202,Sneha Menon,Female,23,Hyderabad,Telangana,Corporate,2021,customer202@mail.com,Inactive
+C201,Ravi Das,Male,25,Delhi,Delhi,Wholesale,2022,customer201@mail.com,Inactive
+C200,Karthik Bose,Male,48,Kolkata,West Bengal,Wholesale,2025,customer200@mail.com,Active
+C020,Manoj Agarwal,Male,55,Pune,Maharashtra,Corporate,2025,customer20@mail.com,Inactive
+C002,Lakshmi Das,Male,55,Pune,Maharashtra,Retail,2019,customer2@mail.com,Inactive
+C199,Priya Patel,Male,30,Kolkata,West Bengal,Wholesale,2018,customer199@mail.com,Active
+C198,Pooja Iyer,Male,49,Chennai,Tamil Nadu,Corporate,2024,customer198@mail.com,Active
+C197,Suresh Joshi,Male,40,Chennai,Tamil Nadu,Retail,2023,customer197@mail.com,Active
+C196,Priya Mishra,Male,40,Ahmedabad,Gujarat,Corporate,2023,customer196@mail.com,Inactive
+C195,asha yadav,Female,42,Mumbai,Maharashtra,Wholesale,2020,customer195@mail.com,Inactive
+C194,Divya Kumar,Female,24,Mumbai,Maharashtra,Corporate,2024,customer194@mail.com,Inactive
+C193,Ajay Rao,Female,36,Mysore,Karnataka,Corporate,2023,customer193@mail.com,Active
+C192,Ravi Reddy,Female,38,Mysore,Karnataka,Corporate,2025,customer192@mail.com,Active
+C191,VIJAY NAIR,Female,58,Kolkata,West Bengal,Wholesale,2019,customer191@mail.com,Active
+C190,Ramesh Bose,Male,57,Mumbai,Maharashtra,Retail,2021,customer190@mail.com,Active
+C019,Manoj Rao,Male,26,Bangalore,Karnataka,Retail,2022,customer19@mail.com,Active
+C189,Suresh Rao,Male,35,Ahmedabad,Gujarat,Wholesale,2018,customer189@mail.com,Inactive
+C188,Nisha Agarwal,Male,24,Pune,Maharashtra,Retail,2022,customer188@mail.com,Inactive
+C187,Deepak Iyer,Male,57,Delhi,Delhi,Retail,2024,customer187@mail.com,Inactive
+C186,Ravi Menon,Female,26,Mumbai,Maharashtra,Retail,2023,customer186@mail.com,Active
+C185,DEEPAK IYER,Male,36,Hyderabad,Telangana,Retail,2025,customer185@mail.com,Active
+C184,Manoj Rao,Female,52,Bangalore,Karnataka,Wholesale,2023,customer184@mail.com,Inactive
+C183,Nisha Jain,Male,40,Chennai,Tamil Nadu,Wholesale,2025,customer183@mail.com,Inactive
+C182,Nisha Kumar,Female,38,Mysore,Karnataka,Wholesale,2021,customer182@mail.com,Active
+C181,Manoj Menon,Male,22,Coimbatore,Tamil Nadu,Retail,2018,customer181@mail.com,Inactive
+C180,Vijay Singh,Female,55,Hyderabad,Telangana,Corporate,2019,customer180@mail.com,Inactive
+C018,Priya Joshi,Male,36,Chennai,Tamil Nadu,Retail,2019,customer18@mail.com,Active
+C179,ASHA SHARMA,Female,53,Mumbai,Maharashtra,Corporate,2019,customer179@mail.com,Active
+C178,Meena Iyer,Male,37,Chennai,Tamil Nadu,Wholesale,2019,customer178@mail.com,Active
+C177,Priya Pillai,Female,33,Pune,Maharashtra,Wholesale,2024,customer177@mail.com,Active
+C176,Suresh Verma,Male,59,Bangalore,Karnataka,Retail,2022,customer176@mail.com,Active
+C175,Manoj Nair,Female,29,Pune,Maharashtra,Corporate,2023,customer175@mail.com,Active
+C174,Sneha Das,Female,30,Delhi,Delhi,Corporate,2019,customer174@mail.com,Active
+C173,Nisha Bose,Female,21,Pune,Maharashtra,Retail,2025,customer173@mail.com,Inactive
+C172,KAVYA MISHRA,Female,23,Kolkata,West Bengal,Wholesale,2022,customer172@mail.com,Inactive
+C171,Suresh Agarwal,Male,50,Pune,Maharashtra,Corporate,2022,customer171@mail.com,Inactive
+C170,Nisha Agarwal,Female,37,Kolkata,West Bengal,Corporate,2018,customer170@mail.com,Inactive
+C017,Ajay Pillai,Male,49,Kolkata,West Bengal,Retail,2018,customer17@mail.com,Inactive
+C169,Arun Patel,Male,60,Delhi,Delhi,Corporate,2025,customer169@mail.com,Active
+C168,Suresh Singh,Male,39,Mysore,Karnataka,Wholesale,2021,customer168@mail.com,Active
+C167,Manoj Yadav,Male,32,Hyderabad,Telangana,Retail,2022,customer167@mail.com,Inactive
+C166,Lakshmi Mishra,Male,23,Kolkata,West Bengal,Retail,2019,customer166@mail.com,Inactive
+C165,divya verma,Male,43,Mysore,Karnataka,Wholesale,2020,customer165@mail.com,Active
+C164,Suresh Pillai,Male,53,Pune,Maharashtra,Wholesale,2024,customer164@mail.com,Inactive
+C163,Priya Reddy,Female,56,Pune,Maharashtra,Retail,2021,customer163@mail.com,Inactive
+C162,Meena Singh,Male,26,Hyderabad,Telangana,Retail,2023,customer162@mail.com,Inactive
+C161,Kavya Gupta,Male,31,Chennai,Tamil Nadu,Wholesale,2021,customer161@mail.com,Active
+C160,Rahul Joshi,Female,51,Chennai,Tamil Nadu,Wholesale,2021,customer160@mail.com,Inactive
+C016,RAHUL RAO,Female,27,Chennai,Tamil Nadu,Corporate,2020,customer16@mail.com,Inactive
+C159,Rahul Yadav,Male,35,Ahmedabad,Gujarat,Retail,2025,customer159@mail.com,Active
+C158,Sneha Rao,Female,47,Mysore,Karnataka,Retail,2022,customer158@mail.com,Active
+C157,Karthik Iyer,Male,23,Delhi,Delhi,Wholesale,2019,customer157@mail.com,Active
+C156,Suresh Singh,Male,34,Coimbatore,Tamil Nadu,Corporate,2020,customer156@mail.com,Active
+C155,meena patel,Male,40,Ahmedabad,Gujarat,Retail,2019,customer155@mail.com,Active
+C154,Lakshmi Joshi,Female,32,Chennai,Tamil Nadu,Wholesale,2025,customer154@mail.com,Inactive
+C153,MEENA JOSHI,Female,33,Chennai,Tamil Nadu,Wholesale,2023,customer153@mail.com,Active
+C152,Ravi Pillai,Male,21,Chennai,Tamil Nadu,Corporate,2021,customer152@mail.com,Active
+C151,Vijay Kapoor,Female,50,Mysore,Karnataka,Wholesale,2025,customer151@mail.com,Active
+C150,Kavya Yadav,Female,54,Kolkata,West Bengal,Corporate,2019,customer150@mail.com,Inactive
+C015,Ajay Das,Male,51,Chennai,Tamil Nadu,Retail,2019,customer15@mail.com,Active
+C149,Arun Kumar,Female,24,Hyderabad,Telangana,Retail,2019,customer149@mail.com,Active
+C148,Ramesh Rao,Female,32,Bangalore,Karnataka,Wholesale,2022,customer148@mail.com,Active
+C147,MEENA JAIN,Female,59,Coimbatore,Tamil Nadu,Wholesale,2020,customer147@mail.com,Active
+C146,Karthik Mishra,Male,59,Hyderabad,Telangana,Wholesale,2019,customer146@mail.com,Active
+C145,ramesh verma,Female,41,Delhi,Delhi,Retail,2022,customer145@mail.com,Inactive
+C144,Pooja Pillai,Male,29,Bangalore,Karnataka,Retail,2025,customer144@mail.com,Inactive
+C143,Priya Jain,Male,58,Delhi,Delhi,Retail,2022,customer143@mail.com,Active
+C142,Vijay Pillai,Female,34,Coimbatore,Tamil Nadu,Wholesale,2024,customer142@mail.com,Inactive
+C141,Divya Rao,Female,47,Delhi,Delhi,Retail,2021,customer141@mail.com,Inactive
+C140,SURESH BOSE,Female,47,Bangalore,Karnataka,Corporate,2019,customer140@mail.com,Inactive
+C014,Arun Singh,Male,57,Kolkata,West Bengal,Corporate,2023,customer14@mail.com,Inactive
+C139,Divya Das,Male,59,Mumbai,Maharashtra,Retail,2023,customer139@mail.com,Inactive
+C138,Nisha Nair,Male,44,Bangalore,Karnataka,Corporate,2021,customer138@mail.com,Active
+C137,Nisha Rao,Male,22,Kolkata,West Bengal,Retail,2022,customer137@mail.com,Inactive
+C136,Nisha Menon,Female,52,Ahmedabad,Gujarat,Retail,2024,customer136@mail.com,Inactive
+C135,kavya reddy,Male,36,Coimbatore,Tamil Nadu,Retail,2024,customer135@mail.com,Inactive
+C134,Suresh Sharma,Male,21,Delhi,Delhi,Retail,2020,customer134@mail.com,Active
+C133,Divya Pillai,Male,36,Kolkata,West Bengal,Wholesale,2023,customer133@mail.com,Inactive
+C132,Nisha Das,Female,52,Hyderabad,Telangana,Corporate,2023,customer132@mail.com,Active
+C131,Sneha Reddy,Female,22,Pune,Maharashtra,Retail,2022,customer131@mail.com,Inactive
+C130,Kavya Rao,Female,36,Bangalore,Karnataka,Wholesale,2018,customer130@mail.com,Inactive
+C013,Karthik Sharma,Male,24,Hyderabad,Telangana,Wholesale,2021,customer13@mail.com,Inactive
+C129,Vijay Gupta,Male,58,Chennai,Tamil Nadu,Corporate,2018,customer129@mail.com,Inactive
+C128,AJAY JOSHI,Male,59,Ahmedabad,Gujarat,Wholesale,2025,customer128@mail.com,Active
+C127,Rahul Rao,Male,55,Pune,Maharashtra,Retail,2022,customer127@mail.com,Active
+C126,Nisha Verma,Female,38,Chennai,Tamil Nadu,Retail,2025,customer126@mail.com,Active
+C125,Nisha Joshi,Male,41,Coimbatore,Tamil Nadu,Wholesale,2020,customer125@mail.com,Inactive
+C124,Ravi Rao,Male,37,Delhi,Delhi,Corporate,2023,customer124@mail.com,Active
+C123,Divya Patel,Male,42,Kolkata,West Bengal,Retail,2018,customer123@mail.com,Inactive
+C122,Arun Bose,Male,27,Pune,Maharashtra,Wholesale,2021,customer122@mail.com,Active
+C121,POOJA AGARWAL,Female,52,Ahmedabad,Gujarat,Retail,2022,customer121@mail.com,Inactive
+C120,Arun Reddy,Female,50,Bangalore,Karnataka,Corporate,2024,customer120@mail.com,Inactive
+C012,Asha Kumar,Male,58,Bangalore,Karnataka,Corporate,2020,customer12@mail.com,Active
+C119,Rahul Agarwal,Male,50,Coimbatore,Tamil Nadu,Wholesale,2018,customer119@mail.com,Inactive
+C118,Anita Agarwal,Female,35,Chennai,Tamil Nadu,Wholesale,2021,customer118@mail.com,Inactive
+C117,Ajay Gupta,Male,40,Kolkata,West Bengal,Wholesale,2025,customer117@mail.com,Active
+C116,Asha Jain,Male,31,Delhi,Delhi,Retail,2018,customer116@mail.com,Inactive
+C115,SNEHA YADAV,Male,23,Coimbatore,Tamil Nadu,Corporate,2022,customer115@mail.com,Active
+C114,Anita Kapoor,Male,25,Kolkata,West Bengal,Wholesale,2025,customer114@mail.com,Inactive
+C113,Sneha Agarwal,Female,35,Kolkata,West Bengal,Wholesale,2023,customer113@mail.com,Inactive
+C112,Deepak Menon,Female,24,Pune,Maharashtra,Corporate,2024,customer112@mail.com,Active
+C111,Pooja Gupta,Female,60,Coimbatore,Tamil Nadu,Wholesale,2021,customer111@mail.com,Active
+C110,Kavya Reddy,Male,30,Mysore,Karnataka,Wholesale,2018,customer110@mail.com,Inactive
+C011,Divya Singh,Male,48,Hyderabad,Telangana,Wholesale,2025,customer11@mail.com,Inactive
+C109,MEENA PATEL,Male,47,Chennai,Tamil Nadu,Retail,2021,customer109@mail.com,Inactive
+C108,Suresh Agarwal,Male,27,Ahmedabad,Gujarat,Corporate,2020,customer108@mail.com,Inactive
+C107,Suresh Yadav,Female,35,Ahmedabad,Gujarat,Corporate,2018,customer107@mail.com,Inactive
+C106,Deepak Nair,Male,24,Delhi,Delhi,Wholesale,2025,customer106@mail.com,Inactive
+C105,ramesh agarwal,Male,55,Pune,Maharashtra,Wholesale,2023,customer105@mail.com,Inactive
+C104,Rahul Bose,Female,22,Chennai,Tamil Nadu,Corporate,2020,customer104@mail.com,Active
+C103,Suresh Menon,Female,48,Coimbatore,Tamil Nadu,Wholesale,2019,customer103@mail.com,Inactive
+C102,Meena Nair,Male,57,Mumbai,Maharashtra,Retail,2019,customer102@mail.com,Active
+C101,Vijay Bose,Male,25,Ahmedabad,Gujarat,Retail,2025,customer101@mail.com,Active
+C100,Ramesh Menon,Female,50,Delhi,Delhi,Wholesale,2022,customer100@mail.com,Active
+C010,Nisha Agarwal,Female,24,Delhi,Delhi,Retail,2022,customer10@mail.com,Inactive
+C001,Ajay Pillai,Female,50,Bangalore,Karnataka,Retail,2024,customer1@mail.com,Inactive
